@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOFitnessApp.MyBMRPage"
+             Title="BMRPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Picker x:Name="PckActivity" Title="Select an Activity Level" FontSize="30" Grid.ColumnSpan="2" Margin="10">
+                <Picker.Items>
+                    <x:String>Very Light Activity</x:String>
+                    <x:String>Light Activity</x:String>
+                    <x:String>Moderate Activity</x:String>
+                    <x:String>Heavy Activity</x:String>
+                    <x:String>Very Heavy Activity</x:String>
+                </Picker.Items>
+            </Picker>
+            <Picker x:Name="PckGender" Title="Select Gender" Grid.Row="1" FontSize="30" Grid.ColumnSpan="2" Margin="10">
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+            <Label Text="BMR:"
+                   VerticalOptions="Start"
+                   HorizontalOptions="End"
+                   Grid.Row="3"
+                   FontSize="20"/>
+            <Label x:Name="lblResults"
+                   Text="Results..."
+                   Grid.Row="3"
+                   Grid.Column="1"
+                   FontSize="20"/>
+            <Button x:Name="btnCalculate"
+                    Text="CALCULATE"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    VerticalOptions="Center"
+                    Margin="15"
+                    BackgroundColor="DarkGreen"
+                    Clicked="btnCalculate_Clicked"/>
+            <Button x:Name="btnClose"
+                    Text="CLOSE"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    VerticalOptions="Center"
+                    Margin="15"
+                    Clicked="btnClose_Clicked"
+                    BackgroundColor="Red"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOFitnessApp.Android", "MOFitnessApp\MOFitnessApp.Android\MOFitnessApp.Android.csproj", "{7497911A-2DA4-45BE-84EE-2E04C6E3F892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOFitnessApp", "MOFitnessApp\MOFitnessApp\MOFitnessApp.csproj", "{C3AE7DD8-E690-4CCA-A797-A01A01308450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7497911A-2DA4-45BE-84EE-2E04C6E3F892}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AE7DD8-E690-4CCA-A797-A01A01308450}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AAE501F-33E9-48C2-907F-49ACBC0446F4}
+	EndGlobalSection
+EndGlobal

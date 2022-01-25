@@ -1,0 +1,149 @@
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(2)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(3)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(4)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(5)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyTimerPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(6) new\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyTimerPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(7)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyTimerPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyWaterPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(8)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.deps.json
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\bin\Debug\netstandard2.0\MOFitnessApp.pdb
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csprojAssemblyReference.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\FoodDetails.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyBMRPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyTimerPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MyWaterPage.xaml.g.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfoInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.AssemblyInfo.cs
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.csproj.CoreCompileInputs.cache
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\ref\MOFitnessApp.dll
+C:\Code\Mitchell-13\Info1200\MOFitnessApp(9)\MOFitnessApp\MOFitnessApp\obj\Debug\netstandard2.0\MOFitnessApp.pdb

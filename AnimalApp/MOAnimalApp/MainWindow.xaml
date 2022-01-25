@@ -1,0 +1,105 @@
+﻿<Window x:Class="MOAnimalApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MOAnimalApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightGoldenrodYellow">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.2*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <RadioButton x:Name="RdBtnCow"
+                    Content="Cow"
+                    FontSize="15"
+                    Grid.Column="1"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Checked="RdBtnCow_Checked"/>
+        <RadioButton x:Name="RdBtnSheep"
+                    Content="Sheep"
+                    FontSize="15"
+                    Grid.Column="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Checked="RdBtnSheep_Checked"/>
+        <RadioButton x:Name="RdBtnDuck"
+                    Content="Duck"
+                    FontSize="15"
+                    Grid.Column="1"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    Checked="RdBtnDuck_Checked"/>
+        <GroupBox Grid.Row="1"
+                    Header="Base Class"
+                    FontSize="15">
+            <StackPanel>
+                <Button x:Name="BtnMove"
+                    Content="Move"
+                    FontSize="15"
+                    Margin="10"
+                    Click="BtnMove_Click"/>
+                <Button x:Name="BtnEat"
+                    Content="Eat"
+                    FontSize="15"
+                    Margin="10, 0, 10, 10"
+                    Click="BtnEat_Click"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="1"
+                Grid.Column="1"
+                Header="Derived Class"
+                FontSize="15">
+            <StackPanel>
+                <Button x:Name="BtnPet"
+                    Content="Pet"
+                    FontSize="15"
+                    Margin="10"
+                    Click="BtnPet_Click"/>
+                <Button x:Name="BtnSound"
+                    Content="Sound"
+                    FontSize="15"
+                    Margin="10, 0, 10, 10"
+                    Click="BtnSound_Click"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="1"
+                    Grid.Column="2"
+                    Header="Properties"
+                    FontSize="15">
+            <StackPanel>
+                <Button x:Name="BtnSkinType"
+                    Content="Skin Type"
+                    FontSize="15"
+                    Margin="10"
+                    Click="BtnSkinType_Click"/>
+                <Button x:Name="BtnFoodType"
+                    Content="Food Type"
+                    FontSize="15"
+                    Margin="10, 0, 10, 10"
+                    Click="BtnFoodType_Click"/>
+            </StackPanel>
+        </GroupBox>
+        <Image x:Name="ImgAnimal"
+                Grid.Row="2"
+                Grid.Column="1"
+                Source="images/duck.png"
+                Margin="10"/>
+        <Label x:Name="LblResults"
+                Grid.Row="3"
+                Grid.ColumnSpan="3"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Content="Results..."
+                FontSize="20"/>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+C:\Code\INFO-2200\MOMovieApp\bin\Debug\MOMovieApp.exe.config
+C:\Code\INFO-2200\MOMovieApp\bin\Debug\MOMovieApp.exe
+C:\Code\INFO-2200\MOMovieApp\bin\Debug\MOMovieApp.pdb
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.Form1.resources
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.Properties.Resources.resources
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.csproj.GenerateResource.cache
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.exe
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.pdb
+C:\Code\INFO-2200\MOMovieApp\obj\Debug\MOMovieApp.csproj.AssemblyReference.cache

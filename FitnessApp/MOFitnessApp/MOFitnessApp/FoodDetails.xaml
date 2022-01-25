@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOFitnessApp.FoodDetails">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="20"/>
+            </Grid.RowDefinitions>
+            <BoxView BackgroundColor="DarkSlateBlue"/>
+            <Label Text="Food Details" 
+               FontSize="25"
+               HorizontalTextAlignment="Center"/>
+            <Picker x:Name="PckrFoodItems" 
+                Title="Select a Food" 
+                Grid.Row="1" FontSize="30" 
+                VerticalOptions="Center"/>
+            <Button x:Name="BtnDetails" 
+                Text="Details"
+                FontSize="30" 
+                Grid.Row="2" 
+                Clicked="BtnDetails_Clicked"/>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

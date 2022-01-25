@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOWeatherApp.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="LblCity"
+               Grid.Row="0"
+               Grid.ColumnSpan="2"
+               Text="City Name"
+               FontSize="50"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblTemp"
+               Text="Temp"
+               Grid.Row="1"
+               Grid.Column="0"
+               FontSize="70"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblHighLow"
+               Text="High/Low"
+               Grid.Row="1"
+               Grid.Column="1"
+               FontSize="30"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblWeatherCondition"
+               Text="Condition"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               FontSize="30"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblWind"
+               Text="Wind Speed"
+               Grid.Row="3"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               FontSize="30"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Start"/>
+        <Entry x:Name="EntCity"
+               Grid.Row="4"
+               Grid.ColumnSpan="2"
+               FontSize="30"
+               Placeholder="Enter City"
+               PlaceholderColor="Black"
+               TextColor="Black" />
+        <Button x:Name="BtnShowWeatherDetails"
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                Text="Show Weather Details"
+                FontSize="30"
+                BackgroundColor="DimGray"
+                TextColor="White"
+                CornerRadius="30"
+                Margin="10"
+                Clicked="BtnShowWeatherDetails_Clicked"/>
+
+    </Grid>
+</ContentPage>

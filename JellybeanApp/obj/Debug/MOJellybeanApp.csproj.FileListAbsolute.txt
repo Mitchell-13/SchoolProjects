@@ -1,0 +1,17 @@
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\MOJellybeanApp.exe.config
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\MOJellybeanApp.exe
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\MOJellybeanApp.pdb
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\EntityFramework.dll
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\EntityFramework.xml
+C:\Code\INFO-2200\MOJellybeanApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.Properties.Resources.resources
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.csproj.GenerateResource.cache
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.exe
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.pdb
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.Form1.resources
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.JellyBeanCatForm.resources
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.JellyBeanSearchForm.resources
+C:\Code\INFO-2200\MOJellybeanApp\obj\Debug\MOJellybeanApp.csproj.AssemblyReference.cache

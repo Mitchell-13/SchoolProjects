@@ -1,0 +1,17 @@
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.csprojAssemblyReference.cache
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\FoodDetails.g.cs
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MainWindow.g.cs
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\App.g.cs
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp_MarkupCompile.cache
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp_MarkupCompile.lref
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\bin\Debug\MONutritionApp.exe.config
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\bin\Debug\MONutritionApp.exe
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\bin\Debug\MONutritionApp.pdb
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\FoodDetails.baml
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MainWindow.baml
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.g.resources
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.Properties.Resources.resources
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.csproj.GenerateResource.cache
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.exe
+C:\Code\INFO-2200\MONutritionApp\MONutritionApp\obj\Debug\MONutritionApp.pdb

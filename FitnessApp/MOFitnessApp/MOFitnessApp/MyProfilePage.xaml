@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOFitnessApp.MyProfilePage"
+             Title="Mitchell's Profile Page">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="75"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="BtnClose"
+                Text="CLOSE"
+                Grid.Row="4"
+                FontSize="25"
+                BackgroundColor="Red"
+                Margin="10"
+                BorderRadius="25"
+                Clicked="BtnClose_Clicked"/>
+        <Button x:Name="BtnClear"
+                Text="Clear All"
+                Grid.Row="4"
+                Grid.Column="1"
+                Margin="10"
+                BorderRadius="25"
+                BackgroundColor="red"
+                FontSize="25"
+                Clicked="BtnClear_Clicked"/>
+        <Entry x:Name="EntryFirstName"
+               Grid.ColumnSpan="2"
+               Placeholder="First Name"
+               VerticalOptions="Start"/>
+        <Entry x:Name="EntryLastName"
+               Grid.ColumnSpan="2"
+               VerticalOptions="Center"
+               Placeholder="Last Name"/>
+        <Entry x:Name="EntryPrefName"
+               Grid.ColumnSpan="2"
+               VerticalOptions="End"
+               Placeholder="Prefered Name"/>
+        <Entry x:Name="EntryWeight"
+               Placeholder="Weight"
+               Grid.ColumnSpan="2"
+               Grid.Row="1"
+               VerticalOptions="Start"
+               Keyboard="Numeric"/>
+        <Entry x:Name="EntryHeight"
+               Placeholder="Height"
+               Grid.ColumnSpan="2"
+               Grid.Row="1"
+               VerticalOptions="Center"
+               Keyboard="Numeric"/>
+        <Entry x:Name="EntryAge"
+               Placeholder="Age"
+               Grid.ColumnSpan="2"
+               Grid.Row="1"
+               VerticalOptions="End"
+               Keyboard="Numeric"/>
+        <Image x:Name="ImgProfile"
+               Source="start.jpg"
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnBefore"
+                Text="BEFORE"
+                Grid.Row="3"
+                Margin="10"
+                BorderRadius="25"
+                Clicked="BtnBefore_Clicked"
+                FontSize="25"/>
+        <Button x:Name="BtnAfter"
+                Text="AFTER"
+                Grid.Row="3"
+                Grid.Column="1"
+                Margin="10"
+                BorderRadius="25"
+                Clicked="BtnAfter_Clicked"
+                FontSize="25"/>
+    </Grid>
+</ContentPage>

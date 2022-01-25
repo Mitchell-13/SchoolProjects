@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOFitnessApp.MyWaterPage"
+             Title="My Water Count">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width=".7*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height=".5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="My Water Count"
+               FontSize="40"
+               Grid.ColumnSpan="2"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               TextColor="Blue"
+               />
+        <Label x:Name="LblDate"
+               Text="Today's Date"
+               Grid.Row="1"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"/>
+        <Label x:Name="LblWaterCount"
+               Text="No water yet today"
+               Grid.Row="2"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               FontSize="30"/>
+        <StackLayout x:Name="SLWater"
+                     Orientation="Horizontal">
+            
+        </StackLayout>
+        <Button x:Name="BtnAddWater"
+                Text="Add Water"
+                Grid.Row="4"
+                FontSize="30"
+                Margin="10"
+                BackgroundColor="aqua"
+                Clicked="BtnAddWater_Clicked"/>
+        <Button x:Name="BtnClose"
+                Text="Close"
+                Grid.Row="4"
+                Grid.Column="1"
+                FontSize="30"
+                Margin="10"
+                BackgroundColor="DarkRed"
+                Clicked="BtnClose_Clicked"/>
+    </Grid>
+</ContentPage>

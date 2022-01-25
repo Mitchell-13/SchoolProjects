@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOEarthquakeApp.MainPage">
+    
+    <StackLayout>
+        <Label Text="Mitchell's Earthquake App"
+               FontSize="40"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               BackgroundColor ="LightGray"
+               TextColor ="Black"/>
+    <ScrollView>
+    <StackLayout>
+        
+        <Label Text="Start Date"
+               HorizontalOptions="Center"
+               FontSize="25"
+               FontAttributes="Bold"
+               />
+        <DatePicker FontSize="16"
+                    x:Name="pckStartDate"/>
+        <Label Text="End Date"
+               HorizontalOptions="Center"
+               FontSize="25"
+               FontAttributes="Bold"/>
+        <DatePicker FontSize="16"
+                    x:Name="pckEndDate"/>
+        
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Text="Minimum Magnitude"
+               HorizontalOptions="Center"
+               FontSize="25"
+                           HorizontalTextAlignment="Center"/>
+                    <Label Text="Maximum Magnitude"
+               HorizontalOptions="Center"
+               FontSize="25"
+                           Grid.Column="1"
+                           HorizontalTextAlignment="Center"/>
+                    <Picker x:Name="PckMin"
+                            Grid.Row="1"
+                            SelectedIndex="0">
+                        <Picker.Items>
+                            <x:String>1</x:String>
+                            <x:String>2</x:String>
+                            <x:String>3</x:String>
+                            <x:String>4</x:String>
+                            <x:String>5</x:String>
+                            <x:String>6</x:String>
+                            <x:String>7</x:String>
+                            <x:String>8</x:String>
+                            <x:String>9</x:String>
+                            <x:String>10</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Picker x:Name="PckMax"
+                            Grid.Column="1"
+                            Grid.Row="1"
+                            SelectedIndex="1">
+                        <Picker.Items>
+                            <x:String>1</x:String>
+                            <x:String>2</x:String>
+                            <x:String>3</x:String>
+                            <x:String>4</x:String>
+                            <x:String>5</x:String>
+                            <x:String>6</x:String>
+                            <x:String>7</x:String>
+                            <x:String>8</x:String>
+                            <x:String>9</x:String>
+                            <x:String>10</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Grid>
+                    <Button Text="Find"
+                FontSize="20"
+                FontAttributes="Bold"
+                CornerRadius="20"
+                BackgroundColor ="SlateGray"
+                Clicked="Button_Clicked"/>
+                <Label Text="OR"
+                       HorizontalOptions="Center"
+                       FontAttributes="Bold"/>
+                <Label Text="Find the smallest or Largest Earthqake to occur in the last 3 years"
+                       HorizontalTextAlignment="Center"
+                       FontAttributes="Bold"
+                       FontSize="20"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Text="Smallest"
+                            x:Name="BtnSmallest"
+                            Clicked="BtnSmallest_Clicked"
+                            FontSize="20"
+                FontAttributes="Bold"
+                CornerRadius="20"/>
+                    <Button Text="Largest"
+                            Grid.Column ="1"
+                            x:Name="BtnLargest"
+                            Clicked="BtnLargest_Clicked"
+                            FontSize="20"
+                FontAttributes="Bold"
+                CornerRadius="20"/>
+                </Grid>
+                <Label Text="Results..."
+               x:Name="lblResults"
+               HorizontalTextAlignment="Center"
+               />
+               
+            </StackLayout>
+    </ScrollView>
+    </StackLayout>
+</ContentPage>

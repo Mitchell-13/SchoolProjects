@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuLn+nMZ3CdEfXQZRGXqTi9R1+DKnh0oCEwLo4Md84BQd2YXtF/A/nsfE4zAuVuzKmMq+mDM4BRttL2/8kb1lA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Mitchell-13\\Info1200\\MOFitnessApp(9)\\MOFitnessApp\\MOFitnessApp\\MOFitnessApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mitch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mitch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mitch\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mitch\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\mitch\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Code\INFO-2200\MOClientServer\MOServerSide\bin\Debug\MOServerSide.exe.config
+C:\Code\INFO-2200\MOClientServer\MOServerSide\bin\Debug\MOServerSide.exe
+C:\Code\INFO-2200\MOClientServer\MOServerSide\bin\Debug\MOServerSide.pdb
+C:\Code\INFO-2200\MOClientServer\MOServerSide\obj\Debug\MOServerSide.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOClientServer\MOServerSide\obj\Debug\MOServerSide.exe
+C:\Code\INFO-2200\MOClientServer\MOServerSide\obj\Debug\MOServerSide.pdb
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\bin\Debug\MOServerSide.exe.config
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\bin\Debug\MOServerSide.exe
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\bin\Debug\MOServerSide.pdb
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\obj\Debug\MOServerSide.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\obj\Debug\MOServerSide.exe
+C:\Code\INFO-2200\MOClientServer2\MOServerSide\obj\Debug\MOServerSide.pdb

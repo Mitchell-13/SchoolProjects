@@ -1,0 +1,15 @@
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\bin\Debug\netstandard2.0\MOWeatherApp.deps.json
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\bin\Debug\netstandard2.0\MOWeatherApp.dll
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\bin\Debug\netstandard2.0\ref\MOWeatherApp.dll
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\bin\Debug\netstandard2.0\MOWeatherApp.pdb
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.AssemblyInfoInputs.cache
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.AssemblyInfo.cs
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.dll
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\ref\MOWeatherApp.dll
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.pdb
+C:\Code\INFO-2200\MOWeatherApp\MOWeatherApp\MOWeatherApp\obj\Debug\netstandard2.0\MOWeatherApp.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\bin\Debug\netstandard2.0\MOEarthquakeApp.deps.json
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\bin\Debug\netstandard2.0\MOEarthquakeApp.dll
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\bin\Debug\netstandard2.0\ref\MOEarthquakeApp.dll
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\bin\Debug\netstandard2.0\MOEarthquakeApp.pdb
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.AssemblyInfoInputs.cache
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.AssemblyInfo.cs
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.csproj.CoreCompileInputs.cache
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.dll
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\ref\MOEarthquakeApp.dll
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.pdb
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\List.xaml.g.cs
+C:\Code\INFO-2200\MOEarthquakeApp\MOEarthquakeApp\obj\Debug\netstandard2.0\MOEarthquakeApp.csproj.AssemblyReference.cache

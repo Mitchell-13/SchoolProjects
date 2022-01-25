@@ -1,0 +1,15 @@
+What's the best thing about a Boolean?	Even if you're wrong, you're only off by a bit.
+What's the object-oriented way to become wealthy?	Inheritance
+Why did the programmer quit their job?	Because they didn't get arrays.
+Why do programmers always mix up Halloween and Christmas?	Because Oct 31 == Dec 25
+A SQL query walks into a bar, walks up to two tables and asks...	Can I join you?
+How many programmers does it take to change a lightbulb?	None, that's a hardware problem
+To understand what recursion is...	You must first understand what recursion is
+There are 10 types of people in this world...	Those who understand binary and those who don't
+Why do Java programmers wear glasses?	Because they don't C#
+A user interface is like a joke.	If you have to explain it then it is not that good.
+Why do C# and Java developers keep breaking their keyboards?	Because they use a strongly typed language.
+Why did the methods stop calling each other?	Because they had too many arguments
+I asked a programmer why they were accused of bad coding.	They refused to comment.
+Why are Assembly programmers always soaking wet?	They work below C-level.
+How did the programmer die in the shower?	Followed the shampoo bottle instructions: Lather, rinse, repeat.
