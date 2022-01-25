@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/RentAPet.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Rent A Pet: Customer Survey</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="mystyles.css">
+	<link rel="stylesheet" href="https://use.typekit.net/lbw7zfh.css">
+	<link rel="stylesheet" href="Print.css" media="print">
+	<script type="text/javascript" src="myscripts.js"></script>
+
+</head>
+
+<body onload="preloadImages()">
+<header>
+	<a href="" onmouseover="document.getElementById('logo').src='Images/Logo2.png';"
+	onmouseout="document.getElementById('logo').src='Images/Logo.png';"> <img
+	src="Images/Logo.png" alt="Logo" height="125" id="logo"></a>
+	<img src="Images/Banner.png" alt="banner" id="banner" height="125">
+	
+	<nav>
+		<a href="Home.html">Home</a> &nbsp;
+		<a href="AboutUs.html">About Us</a><br> 
+		<a href="Tributes.html">Tributes</a>&nbsp;&nbsp;
+		<a href="Survey.html">Survey</a><br>
+		<a href="Links.html">Favorites</a>
+	</nav>
+	
+</header>
+	
+<section>
+
+  <!-- InstanceBeginEditable name="PageContent1" -->
+  <article>
+	  
+	  <h1>Customer Survey</h1>
+   <form action="FormToEmail.php" method="post">
+	  
+	   <fieldset><legend>Personal Information</legend><ul>
+		   <li><label>Name:</label><input name="customername" type="text" id="customername" tabindex="1"></li>
+		   <li><label>Email:</label><input name="email" type="email" id="email" tabindex="2"></li>
+		   <li><label>Phone Number:</label><input name="telephone" type="tel" id="telephone" tabindex="3"></li>
+	      <li><label>May Rent-A-Pet contact you regarding new deals and offers?<br>&nbsp;&nbsp;&nbsp;&nbsp;
+			   <label>Yes</label><input name="contact" type="radio" tabindex="4" value="Yes">
+		    <label>No</label><input name="contact" type="radio" tabindex="5" value="No"></label></li>
+	   </ul></fieldset>
+	   
+      <fieldset><legend>Feedback</legend><ul>
+		   <li><label>Where did you find out about Rent-A-Pet?</label><select name="DiscoverMethod" id="DiscoverMethod" tabindex="6">
+		     <option value="1" selected="selected">Family/Friends</option>
+		     <option value="2">Search engine</option>
+		     <option value="3">Social media</option>
+		     <option value="4">Blog or other publication</option>
+		     <option value="5">Physical advertisement </option>
+	      </select></li>
+		   <li><label>Which animals would you consider renting?</label>
+		   <ul>
+		     <li><input name="animal" type="checkbox" id="Dog" tabindex="7" value="Dog"><label>Dog</label></li>
+		     <li><input name="animal" type="checkbox" id="Cat" tabindex="8" value="Cat"><label>Cat</label></li>
+		     <li><input name="animal" type="checkbox" id="Horse" tabindex="9" value="Horse"><label>Horse</label></li>
+		     <li><input name="animal" type="checkbox" id="Snake" tabindex="10" value="Snake"><label>Snake</label></li>
+		     <li><input name="animal" type="checkbox" id="Pig" tabindex="11" value="Pig"><label>Pig</label></li>
+			   </ul>
+		   
+		   </li>
+		   <li><label>Please leave additional feedback here:</label><br><textarea name="feedback" cols="60" rows="4" maxlength="400" id="feedback" placeholder="Max 400 characters" tabindex="12"></textarea></li>
+	   </ul></fieldset>
+	   <p><input id="submit" type="submit" tabindex="13" value="Submit Survey">&nbsp;&nbsp;&nbsp;<input id="reset" type="reset" tabindex="14"></p>
+	   
+    </form>
+  </article>
+<!-- InstanceEndEditable --> </section>
+	
+<footer>
+	<br>
+	<p><a href="mailto:mitchellogden13@gmail.com?">Email Us</a><br>
+	This web site has been created solely for educational purposes.</p>
+</footer>
+	
+</body>
+<!-- InstanceEnd --></html>
